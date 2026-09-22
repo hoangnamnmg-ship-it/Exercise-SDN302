@@ -1,0 +1,10 @@
+{
+  "name": "exercise2-todolist",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Building a Todo List Application using Node.js and ES6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}

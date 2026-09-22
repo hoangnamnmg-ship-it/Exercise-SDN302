@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "id": 3,
+      "title": "Understanding REST API",
+      "content": "REST API allows applications to communicate through HTTP.",
+      "author": "Le Van C",
+      "date": "2026-09-03"
+    }
+  ],
+  "comments": []
+}

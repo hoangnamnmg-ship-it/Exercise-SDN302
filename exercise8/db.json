@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Getting Started with Express",
+      "body": "Express is a minimal and flexible Node.js web application framework."
+    },
+    {
+      "id": 2,
+      "title": "Understanding Express Routers",
+      "body": "Express routers help you organize routes in larger applications."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Node.js Tutorial for Beginners",
+      "url": "https://example.com/videos/node-beginners"
+    },
+    {
+      "id": 2,
+      "title": "Express.js Crash Course",
+      "url": "https://example.com/videos/express-crash-course"
+    }
+  ]
+}
